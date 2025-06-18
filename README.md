@@ -1,1 +1,1 @@
-# Template Vite TS
+# Template Vite
